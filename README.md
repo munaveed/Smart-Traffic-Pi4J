@@ -5,6 +5,6 @@ https://github.com/user-attachments/assets/6ce34d08-d1e4-4de1-8a49-299705c032df
 
 This prototype demonstrates a real-time traffic controller where Safety > Flow. By implementing Preemptive Priority Scheduling, the system ensures that emergency overrides are handled with zero-latency, while a Binary Semaphore maintains hardware integrity across four concurrent threads. This project successfully bridges the gap between high level Java multithreading and low-level embedded hardware.
 
-For a deep dive into the System Architecture, Semaphore Implementation, and Priority Scheduling logic, read the full final project report in my docs folder
+---For a deep dive into the System Architecture, Semaphore Implementation, and Priority Scheduling logic, read the full final project report in my docs folder
 
 
